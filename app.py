@@ -1,4 +1,10 @@
 import streamlit as st
+[theme]
+primaryColor="#00fff2"
+backgroundColor="#fd93fe"
+secondaryBackgroundColor="#ece1ec"
+textColor="#f5f5fb"
+font="serif"
 
 # Membuat menu taksbar
 menu = ["perkenalan", "perhitungan", "penjelasan"]
